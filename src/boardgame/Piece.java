@@ -27,7 +27,6 @@ public abstract class Piece {
 			for(int j =0; j<mat.length; j++) {
 				if(mat[i][j]){
 					return true;
-					
 				}
 			}
 		}
